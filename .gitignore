@@ -1,0 +1,4 @@
+ImgSetPre/
+node_modules/
+.env
+gen-filelist.sh
